@@ -1,4 +1,6 @@
-# Openvpn proxy - M1 chip (tested)
+# Openvpn proxy - M1 chip (tested) [In Progress]
+
+> The below projects, I had a difficulty in running it on M1 chip, so this is my workaround
 
 *Credits*
 - https://github.com/kizzx2/docker-openvpn-client-socks
